@@ -6,7 +6,7 @@ To successfully complete this course, four mentor reviewed projects are required
 
 
 
-#### [Course Syllabus]( NanoDegree-Projects/Attachments/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf )
+#### [Course Syllabus]( Attachments/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf )
 
 
 ## [Welcome to the Program](#)
