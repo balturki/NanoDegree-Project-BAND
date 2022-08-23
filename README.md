@@ -57,7 +57,7 @@ This section takes data visualizations to another level. Use Tableau to analyze 
 
 ---
 
-## [Certificate of Completion](https://confirm.udacity.com/DCPLKGXW)
+## [Certificate of Completion](https://confirm.udacity.com/4CA4FFXM)
 
 ![image](Attachments/Certificate-Bilal-AlTurki.JPG)
 
