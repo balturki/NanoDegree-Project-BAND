@@ -59,7 +59,7 @@ This section takes data visualizations to another level. Use Tableau to analyze 
 
 ## [Certificate of Completion](https://confirm.udacity.com/DCPLKGXW)
 
-![image]( NanoDegree-Projects/Attachments/Certificate Bilal AlTurki.JPG)
+![image](NanoDegree-Projects/Attachments/Certificate Bilal AlTurki.JPG)
 
 
 ---
