@@ -9,7 +9,7 @@ To successfully complete this course, four mentor reviewed projects are required
 #### [Course Syllabus]( Attachments/Business+Analytics+Nanodegree+Program+Syllabus+2.0.pdf )
 
 
-## [Welcome to the Program](#)
+## [Interpret a Data Visualization](#)
 
 Introduction to the program about where and how data applies to a variety of industries. First project is to interpret a data visualization.
 
@@ -21,7 +21,7 @@ Introduction to the program about where and how data applies to a variety of ind
 [Project Rubric](Welcome-to-the-Nanodegree-Program/rubric1.pdf)
 
 
-## [Introduction to Data](Introduction-to-Data/README.md)
+## [Analyze NYSE Data](Introduction-to-Data/README.md)
 
 Using descriptive statistics and visualizations in Excel this section aims to develop and communicate insights discovered from the data. This section also teaches more advanced excel functions, builds excel models and statistical analysis. The project at the end of the lesson is to analyze data from NYSE.
 
