@@ -66,4 +66,4 @@ This section takes data visualizations to another level. Use Tableau to analyze 
 
 **Acknowledgement**
 
-Many Thanks to :raised_hands: [Udacity](https://www.udacity.com/) & [MiSK Foundation](https://misk.org.sa/):raised_hands: for providing this course. :tada:
+Many Thanks to :raised_hands: [Udacity](https://www.udacity.com/) & :raised_hands: [MiSK Foundation](https://misk.org.sa/) for providing this course. :tada:
