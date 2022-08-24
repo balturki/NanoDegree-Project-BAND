@@ -14,7 +14,7 @@ To successfully complete this course, four mentor reviewed projects are required
 Introduction to the program about where and how data applies to a variety of industries. First project is to interpret a data visualization.
 
 #### :dart: PROJECT - Interpret a Data Visualization
-[Project Link](First Project-Interpret a Data Visualization/README.DM)
+[Project Link](https://github.com/balturki/NanoDegree-Project-BAND/tree/main/First%20Project-Interpret%20a%20Data%20Visualization)
 
 >In this project, you’ll explore an interactive data dashboard to uncover insights. You’ll write a short report explaining each insight, and how you found the information to reach your conclusion from the dashboard.
 
