@@ -27,7 +27,7 @@ Using descriptive statistics and visualizations in Excel this section aims to de
 
 
 #### :dart: PROJECT - Analyze NYSE Data
-[Project Link](First Project-Interpret a Data Visualization/README.md)
+[Project Link](https://github.com/balturki/NanoDegree-Project-BAND/tree/main/Second%20Project-Analyze%20NYSE%20Data)
 
 >In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
 
@@ -38,7 +38,7 @@ Using descriptive statistics and visualizations in Excel this section aims to de
 Extract and analyze a data set using SQL. Use data gathered from a query result to find answers to business questions and visualize it to make it easier to understand. The project in this section is to analyze a digital music store in how data gathered from their database may help the company.
 
 #### :dart: PROJECT - Query a Digital Music Store Database
-[Project Link](SQL-for-Data-Analysis/L4-Project-Query-Music-Store/README.md)
+[Project Link](https://github.com/balturki/NanoDegree-Project-BAND/tree/main/Third%20Project-SQL%20for%20Data%20Analysis)
 
 >In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
@@ -49,7 +49,7 @@ Extract and analyze a data set using SQL. Use data gathered from a query result 
 This section takes data visualizations to another level. Use Tableau to analyze and visualize large data sets, and create informative and dynamic data dashboards. This section makes it easier to visualize large data sets in a more readable form in order to present insights to all business areas.
 
 #### :dart: PROJECT- Build Data Dashboards
-[Project Link](Data-Visualization/L5-Project-Build-Data-Dashboard/README.md)
+[Project Link](https://github.com/balturki/NanoDegree-Project-BAND/tree/main/Fourth%20Project-Data%20Representation)
 
 >In this project, you’ll build interactive dashboards with Tableau and use them to discover and communicate insights from data. You’ll use a dataset of flight delays in the US to visualize the quality of airlines and airports, find the best times to fly, and more.
 
