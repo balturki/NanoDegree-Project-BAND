@@ -1,0 +1,44 @@
+Queries By: Bilal AlTurki
+
+// Query 1 
+
+SELECT  gn.Name AS Genre_Name, COUNT(gn.GenreId) AS Ordered
+FROM Genre gn
+JOIN InvoiceLine inl
+ON inl.TrackId= tr.TrackId
+JOIN Track tr
+ON tr.GenreId = gn.GenreId
+GROUP BY 1
+ORDER BY 2
+
+
+// Query 2 
+
+SELECT  tr.UnitPrice As 'Category Price',  COUNT(*) AS 'Number of Tracks'
+FROM Album al
+JOIN Track tr
+ON al.AlbumId = tr.AlbumId
+GROUP BY 1
+
+
+// Query 3
+
+SELECT cu.Country, SUM(inv.Total) AS 'Total Amount'
+FROM Customer cu 
+JOIN Invoice inv
+ON inv.CustomerId = cu.CustomerId
+GROUP BY 1
+ORDER BY 2 desc
+LIMIT 10
+
+
+// Query 4
+
+SELECT  al.Title As 'Title of Album',  COUNT(tr.TrackId) AS 'Number of Tracks'
+FROM Album al
+JOIN Track tr
+ON al.AlbumId = tr.AlbumId
+GROUP BY 1
+order by 2 desc
+limit 6 
+
